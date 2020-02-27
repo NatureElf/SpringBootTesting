@@ -1,0 +1,5 @@
+package io.springboot.topic;
+
+public class TopicController {
+
+}
